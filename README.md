@@ -11,6 +11,6 @@ Link:   <a href="">https://travlogtour-timcodes117.vercel.app/</a>
 ![Travlog-site](MD4.PNG)
 
 # Next.JS Project
-- TypeScript
+- JavaScript
 - CSS
 - FontAwesome Icons
